@@ -1,0 +1,392 @@
+Original SMILES: COc1ccc(OC)c([C@H](O)CNC(=O)CN)c1
+Mutants:
+COC=CC=C(OC)C([C@H1](O)CNC(=O)N)=C
+
+Original SMILES: CCOc1ccccc1OCCN[C@H](C)Cc1ccc(OC)c(S(N)(=O)=O)c1
+Mutants:
+CCOC1=CC=CC=C1OCC#N
+
+Original SMILES: CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12
+Mutants:
+CN(CC1=CC=C(C(C)(C)C)C=C1)CC2=CC=CC3NC=CC=C23
+
+Original SMILES: C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CCl
+Mutants:
+C[C@@H1]1C[C@H1]2[C@@H1]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H1](O)C[C@]2(C)[C@@]1(O)C(=O)C=O
+
+Original SMILES: CCN1C[C@@H](CCN2CCOCC2)C(c2ccccc2)(c2ccccc2)C1=O
+Mutants:
+CCN1C[C@@H1](CCN2CCOCC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)C1=O
+
+Original SMILES: NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O
+Mutants:
+NS(=O)(=O)C1=CC2=C(C=C1Cl)NCNS2(=O)=O
+
+Original SMILES: Cc1nnc(SCC2=C(C(=O)O)N3C(=O)[C@@H](NC(=O)Cn4cnnn4)[C@H]3SC2)s1
+Mutants:
+CC1=NN=C(SCC2=C(C(=O)O)N3C(=O)[C@@H1](NC(=O)CN4C=NN=N4)[C@H1]3SC2)S1
+
+Original SMILES: CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1
+Mutants:
+CC(C)OC(=O)C(C)(C)OC1=CC=C(C(=O)C2=CC=C(Cl)C=C2)C=C1
+
+Original SMILES: O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1
+Mutants:
+O=C1CCC2=CC=C(OCCCCN3CCN(C4=CC=CC(Cl)=C4Cl)CC3)C=C2N1
+
+Original SMILES: COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@H](c6cccs6)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1O
+Mutants:
+COC1=CC([C@@H1]2C3=CC4=C(C=C3[C@@H1](O[C@@H1]5O[C@@H1]6CO[C@H1](C7=CC=CS7)O[C@H1]6[C@H1](O)[C@H1]5O)[C@H1]8COC(=O)[C@H1]28)OCO4)=CC(OC)=C1O
+
+Original SMILES: CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1
+Mutants:
+C=COC(=O)N1CCC(=C2C3=CC=C(Cl)C=C3CCC4=CC=CN=C42)CC1
+
+Original SMILES: NC(=O)N[C@@H](CCC(=O)O)C(=O)O
+Mutants:
+N1C(=O)N[C@@H1](CCC(=O)O)C1
+
+Original SMILES: CCC[C@@](C)(COC(N)=O)COC(=O)NC(C)C
+Mutants:
+CCC[C@@](C)(COC(N)=O)COC(=O)NC(C)C
+
+Original SMILES: NCCNCCNCCNCCN
+Mutants:
+NCCNF
+
+Original SMILES: CN[C@@]1(C)[C@H]2CC[C@@H](C2)C1(C)C
+Mutants:
+CN[C@@]1(C)[C@H1]2CC[C@@H1](C2)C1(C)C
+
+Original SMILES: C[C@@H]1Cc2ccccc2N1NC(=O)c1ccc(Cl)c(S(N)(=O)=O)c1
+Mutants:
+C[C@@H1]1CC2=CC=CC=C2N1NC(=O)C3=CC=C(Cl)C(S(N)(=O)=O)=C3
+
+Original SMILES: CN1C(=O)CC(=O)N(c2ccccc2)c2cc(Cl)ccc21
+Mutants:
+
+Original SMILES: Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O
+Mutants:
+CC=1N=C(C2=CC=C(OCC(C)C)C(C#N)=C2)SC=1C(=O)O
+
+Original SMILES: CCOc1ccc(Cc2cc([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)cc1
+Mutants:
+CCOC=CC=C(CC1=CC([C@@H1]2O[C@H1](CO)[C@@H1](O)[C@H1](O)[C@H1]2O)=CC=C1Cl)C=C
+
+Original SMILES: O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1
+Mutants:
+O=C(O)C[C@H1](O)C[C@H1](O)/C=C/C1=C(C2CC2)N=C3C=CC=CC3=C1C4=CC=C(F)C=C4
+
+Original SMILES: CCC[C@H](C)C1(CC)C(=O)NC(=O)NC1=O
+Mutants:
+CCC[C@H1](C)C1(CC)C(=O)NC(=O)NC1=O
+
+Original SMILES: CN1C[C@H](C(=O)N[C@]2(C)O[C@@]3(O)[C@@H]4CCCN4C(=O)[C@H](Cc4ccccc4)N3C2=O)C[C@@H]2c3cccc4[nH]cc(c34)C[C@H]21
+Mutants:
+
+Original SMILES: Cn1c(=O)c2[nH]cnc2n(C)c1=O
+Mutants:
+CN1C(=O)C=2[NH1]C=NC=2N(C)C1=O
+
+Original SMILES: Cc1c(O)cccc1C(=O)N[C@@H](CSc1ccccc1)[C@H](O)CN1C[C@H]2CCCC[C@H]2C[C@H]1C(=O)NC(C)(C)C
+Mutants:
+CC1=C(O)C=CC=C1C(=O)N[C@@H1](CSC2=CC=CC=C2)[C@H1](O)CN3C[C@H1]4CCCC[C@H1]4C[C@H1]3C(=O)NC(C)(C)C
+
+Original SMILES: C[N+]1(C)[C@H]2C[C@@H](OC(=O)[C@H](CO)c3ccccc3)C[C@H]1[C@H]1O[C@@H]21
+Mutants:
+
+Original SMILES: C[C@@H](C(=O)O)c1cccc(Oc2ccccc2)c1
+Mutants:
+C[C@@H1](C(=O)O)C1=CC=CC(OC2=CC=CC=C2)=C1
+
+Original SMILES: C=CC[N+]1([C@H]2C[C@H]3[C@@H]4CC[C@H]5C[C@H](O)[C@@H](N6CCOCC6)C[C@]5(C)[C@H]4CC[C@]3(C)[C@H]2OC(C)=O)CCCC1
+Mutants:
+C=CC[N+1]1([C@H1]2C[C@H1]3[C@@H1]4CC[C@H1]5C[C@H1](O)[C@@H1](N6CCOCC6)C[C@]5(C)[C@H1]4CC[C@]3(C)[C@H1]2OC(C)=O)CCCC1
+
+Original SMILES: COC(=O)c1ccc2c(c1)NC(=O)/C2=C(\Nc1ccc(N(C)C(=O)CN2CCN(C)CC2)cc1)c1ccccc1
+Mutants:
+COC(=O)C1=CC=CC(=C1)NC=O
+
+Original SMILES: Nc1ccncc1
+Mutants:
+NC=CC1=NC1
+
+Original SMILES: CCC(=O)O[C@H](O[P@@](=O)(CCCCc1ccccc1)CC(=O)N1C[C@H](C2CCCCC2)C[C@H]1C(=O)O)C(C)C
+Mutants:
+CCC(=O)O[C@H1](O[P@@](=O)(CCCCC1=CC=CC=C1)CC(=O)N2C[C@H1](C3CCCCC3)C[C@H1]2C(=O)O)C(C)C
+
+Original SMILES: C[C@@H]1C/C=C/C=C/C=C/C=C/[C@H](O[C@H]2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C[C@@H]2O[C@](O)(C[C@@H](O)C[C@H]3O[C@@H]3/C=C/C(=O)O1)C[C@H](O)[C@H]2C(=O)O
+Mutants:
+C[C@@H1]1C/C=C/C=C/C=C/C=C/[C@H1](O[C@H1]2O[C@H1](C)[C@@H1](O)[C@H1](N)[C@@H1]2O)C[C@@H1]3O[C@](O)(C[C@@H1](O)C[C@H1]4O[C@@H1]4/C=C/C(=O)O1)C[C@H1](O)[C@H1]3C(=O)O
+
+Original SMILES: CN1CCCN=C1/C=C/c1cccs1
+Mutants:
+CNCC#N
+
+Original SMILES: C[C@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@H](O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)C=O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1N[C@H]1C=C(CO)[C@@H](O)[C@H](O)[C@H]1O
+Mutants:
+C[C@H1]1O[C@H1](O[C@@H1]2[C@@H1](CO)O[C@H1](O[C@H1]([C@H1](O)CO)[C@H1](O)[C@@H1](O)C=O)[C@H1](O)[C@H1]2O)[C@H1](O)[C@@H1](O)[C@@H1]1N[C@H1]3C=C(CO)[C@@H1](O)[C@H1](O)[C@H1]3O
+
+Original SMILES: CCO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CS[C@H]12)c1nsc(NP(=O)(O)O)n1
+Mutants:
+CCO/N=C(\C(=O)N[C@@H1]1C(=O)N2C(C(=O)O)=C(SC3=NC(C4=CC=[N+1](C)C=C4)=CS3)CS[C@H1]12)C5=NSC(NP(=O)(O)O)=N5
+
+Original SMILES: O=C(O)CCCCCCCC(=O)O
+Mutants:
+O=C(O)CCCCCCCC(=N)O
+
+Original SMILES: CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1
+Mutants:
+CS(=O)(=O)CCNCC1=CC=C(C2=CC=C3N=CN=C(NC4=CC=C(OCC5=CC=CC(F)=C5)C(Cl)=C4)C3=C2)O1
+
+Original SMILES: CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O
+Mutants:
+CC(C)C1=C(C(=O)NC2=CC=CC=C2)C(C3=CC=CC=C3)=C(C4=CC=C(F)C=C4)N1CC[C@@H1](O)C[C@@H1](O)CC(=O)O
+
+Original SMILES: COc1ccnc(C[S@@](=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC
+Mutants:
+COC=CC=NC(C[S@@](=O)C=NC=CC=C(O)CF)OC
+
+Original SMILES: COC(=O)c1ccccc1O
+Mutants:
+COC(=O)C1=CC=CC=C1O
+
+Original SMILES: CCC(=O)C(C[C@H](C)N(C)C)(c1ccccc1)c1ccccc1
+Mutants:
+CCC(=O)C(C[C@H1](C)NCC(C1=CC=CC=C1)C2)=CC=CC=C2
+
+Original SMILES: NCC[C@H](O)C(=O)N[C@@H]1C[C@H](N)[C@@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](N)[C@H]1O
+Mutants:
+NCC[C@H1](O)C(=O)N[C@@H1]1C[C@H1](N)[C@@H1](O[C@H1]2O[C@H1](CN)[C@@H1](O)[C@H1](O)[C@H1]2O)[C@H1](O)[C@H1]1O[C@H1]3O[C@H1](C=C)[C@@H1](O)[C@H1](N)[C@H1]3O
+
+Original SMILES: C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@H](C)C(=O)C(C)(C)[C@H](O)CC(=O)N1
+Mutants:
+C/C(=C\C1=CSC(C)=N1)[C@@H1]2C[C@@H1]3O[C@]3(C)CCC[C@H1](C)[C@H1](O)[C@H1](C)C(=O)C(C)(C)[C@H1](O)CC(=O)N2
+
+Original SMILES: Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2
+Mutants:
+CC1=NN=CN1C2=CC=C(Cl)OC2COC3=CC=CC=C3Cl
+
+Original SMILES: Nc1nc(Cl)nc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1
+Mutants:
+NC1=NC(Cl)=NC2=C1N=CN2[C@H1]3C[C@H1](O)[C@@H1](CO)O3
+
+Original SMILES: CN1C(=O)C[C@](C)(c2ccccc2)C1=O
+Mutants:
+CNC(=O)C[C@](C)(C=CC=CC=C=N)C=O
+
+Original SMILES: COC(=O)CCc1ccc(OC[C@@H](O)CNC(C)C)cc1
+Mutants:
+
+Original SMILES: C[C@@H](O)[C@H]1C(=O)N2C(C(=O)O)=C(S[C@@H]3CN[C@H](CNS(N)(=O)=O)C3)[C@H](C)[C@H]12
+Mutants:
+C[C@@H1](O)[C@H1]1C(=O)N2C(C(=O)O)=C(S[C@@H1]3CN[C@H1](CNS(N)(=O)=O)C3)[C@H1](C)[C@H1]12
+
+Original SMILES: CN1CCc2cccc3c2[C@H]1Cc1ccc(O)c(O)c1-3
+Mutants:
+CN1CCC2=CC=CC3=C2[C@H1]1CC4=CC=C(O)C(O)=C43
+
+Original SMILES: O=C1CN(/N=C/c2ccc(-c3ccc([N+](=O)[O-])cc3)o2)C(=O)N1
+Mutants:
+O=C1CN(/N=C/C2=CC=C(C3=CC=C([N+1](=O)[O-1])C=C3)O2)C(=O)N1
+
+Original SMILES: Cc1cccc(CN2CCN([C@H](c3ccccc3)c3ccc(Cl)cc3)CC2)c1
+Mutants:
+CC1=CC=CC(CNC2CN([C@H1](C3=CC=CC=C3)C4=CC=C(Cl)C=C4)CC2)=C1
+
+Original SMILES: CN(C)C(=O)N[C@@H]1CC[C@H](CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1
+Mutants:
+CN(C)C(=O)N[C@@H1]1CC[C@H1](CCN2CCN(C3=CC=CC(Cl)=C3Cl)CC2)CC1
+
+Original SMILES: CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)O
+Mutants:
+CCOC(=O)[C@H1](CCC1=CC=CC=C1)N[C@@H1](C)C(=O)N2CC3=CC=CC=C3C[C@H1]2C=O
+
+Original SMILES: O=S(=O)(O)O[C@H]1[C@H](O)CO[C@@H](O[C@@H]2CO[C@@H](O)[C@H](OS(=O)(=O)O)[C@H]2OS(=O)(=O)O)[C@@H]1OS(=O)(=O)O
+Mutants:
+O=S(=O)(O)O[C@H1]1[C@H1](O)CO[C@@H1](O[C@@H1]2CO[C@@H1](O)[C@H1](OS(=O)(=O)O)[C@H1]2OS(=O)(=O)O)[C@@H1]1OS(=O)(=O)O
+
+Original SMILES: O=C1C(O)=C([C@@H]2CC[C@@H](c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21
+Mutants:
+O=C1C(O)=C([C@@H1]2CC[C@@H1](C3=CC=C(Cl)C=C3)CC2)C(=O)C4=CC=CC=C41
+
+Original SMILES: CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC
+Mutants:
+CCC1=CC(=NC2=CC=C(OC(=O)N3CCC(N4CCCCC4)CC3)C=C12)C5=CC6=C(C(=O)N5C)COC(=O)[C@]6(O)CC
+
+Original SMILES: CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C[C@H](C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C
+Mutants:
+CC(=O)OOC(C)=O
+
+Original SMILES: CCCN(CCC)CCc1cccc2c1CC(=O)N2
+Mutants:
+CCCN(CCC)CCC1=CC=CC2=C1CC(=O)N2
+
+Original SMILES: C[C@H](N)C(=O)O
+Mutants:
+C[C@H1](N)C(=O)O
+
+Original SMILES: CCN(CC)[C@@H](C)C(=O)c1ccccc1
+Mutants:
+CCN(CC)[C@@H1](C)C(=O)C1=CC=CC=C1
+
+Original SMILES: Cc1cc(C(C)(C)C)cc(C)c1CC1=NCCN1
+Mutants:
+CC1=CC(C(C)(C)C)=CC(C)=C1CC=NCCNO
+
+Original SMILES: C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O
+Mutants:
+C[C@]CC12[C@H1][C@@H1]=C3PCCC4=CC(=O)CC[C@@]43C[C@@H1]1CC[C@@H1]2O
+
+Original SMILES: Nc1ccc(O)c(C(=O)O)c1
+Mutants:
+NC1=CC=C(O)C(C(=O)O)=C1
+
+Original SMILES: CN(CCOc1ccc(NS(C)(=O)=O)cc1)CCc1ccc(NS(C)(=O)=O)cc1
+Mutants:
+
+Original SMILES: CNCC[C@H](Oc1ccc(C(F)(F)F)cc1)c1ccccc1
+Mutants:
+CNCC[C@H1](OC1=CC=C(C(F)(F)F)C=C1)C2=CC=CC=C2
+
+Original SMILES: OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+Mutants:
+OC[C@@H1](O)[C@@H1](O)[C@H1](O)[C@H1](O)CO
+
+Original SMILES: CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@H](Cl)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC
+Mutants:
+CC[C@@H1]1/C=C(\C)C[C@H1](C)C[C@H1](OC)[C@H1]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H1]3C(=O)O[C@H1](/C(C)=C/[C@@H1]4CC[C@H1](Cl)[C@H1](OC)C4)[C@H1](C)[C@@H1](O)CC1=O)[C@H1](C)C[C@@H1]2OC
+
+Original SMILES: CNC(=O)c1c(I)c(NC(C)=O)c(I)c(C(=O)O)c1I
+Mutants:
+CNC(=O)C1=C(I)C(NC(C)=O)=C(I)C(C(=O)O)=C1I
+
+Original SMILES: C[C@@H](O[C@H]1OCCN(Cc2nn(P(=O)(O)O)c(=O)[nH]2)[C@H]1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1
+Mutants:
+C[C@@H1](O[C@H1]1OCCN(CC2=NN(P(=O)(O)O)C(=O)[NH1]2)[C@H1]1C3=CC=C(F)C=C3)C4=CC(C(F)(F)F)=CC(C(F)(N)F)=C4
+
+Original SMILES: COCC(=O)Nc1c(I)c(C(=O)NC[C@H](O)CO)c(I)c(C(=O)N(C)C[C@@H](O)CO)c1I
+Mutants:
+C1OCC(=O)NC=C(I)C(C(=O)NC[C@H1](O)CO)=C(I)C(C(=O)NC)=C1I
+
+Original SMILES: CCC[C@@H](C)C1(CC)C(=O)NC(=O)NC1=O
+Mutants:
+CCC[C@@H1](C)C1(CC)C(=O)NC(=O)NC1=O
+
+Original SMILES: CC(C)[C@H](N)C(=O)OC[C@H](CO)OCn1cnc2c(=O)[nH]c(N)nc21
+Mutants:
+CC(C)[C@H1](N)C(=O)OC[C@H1](CO)OCN1C=NC=2C(=O)[NH1]C(N)=NC=21
+
+Original SMILES: COc1ccc(OC)c([C@@H](O)CNC(=O)CN)c1
+Mutants:
+
+Original SMILES: CC1=C(/C=C\C(C)=C/C=C/C(C)=C\C(=O)O)C(C)(C)CCC1
+Mutants:
+C1C=CO1
+
+Original SMILES: C[C@@H]1C[C@H]2[C@H]3[C@H]([C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO)[C@@]1(C)C=CC(=O)C=C1C[C@H]3Cl
+Mutants:
+C[C@@H1]1C[C@H1]2[C@H1]3[C@H1]([C@@H1](O)C[C@]2(C)[C@@]1(O)C(=O)CO)[C@@]4(C)C=CC(=O)C=C4C[C@H1]3Cl
+
+Original SMILES: C#C[C@]1(O)CC[C@@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@@H]3CC[C@@]21CC
+Mutants:
+C#C[C@]1(O)CC[C@@H1]2[C@@H1]3CCC4=CC(=O)CC[C@@H1]4[C@@H1]3CC[C@@]21CC
+
+Original SMILES: CN1[C@H]2CC[C@@H]1C[C@H](OC(=O)[C@@H](CO)c1ccccc1)C2
+Mutants:
+C1N2[C@H1]CC[C@@H1]1[C@H1](OC(=O)[C@@H1](C)OC3=CC=CC=C3)C2
+
+Original SMILES: CC1=C(/C=C/C(C)=C/C=C\C(C)=C/C(=O)O)C(C)(C)CCC1
+Mutants:
+CC1=C(/C=C/C(C)=C/C=C\C(C)=C/C(=O)O)C(C)(C)CCC1
+
+Original SMILES: Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl
+Mutants:
+Cl[C@H1]1[C@H1](Cl)[C@@H1](Cl)[C@@H1](Cl)[C@H1](Cl)[C@H1]1Cl
+
+Original SMILES: CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5
+Mutants:
+CN1CC[C@]2C3=C4C=C5C(O)=C3O[C@H1]2[C@@H1](O)C=C[C@H1]5[C@H1]1C4
+
+Original SMILES: NC(=N/CCCCCC/N=C(N)/N=C(\N)Nc1ccc(Cl)cc1)/N=C(/N)Nc1ccc(Cl)cc1
+Mutants:
+
+Original SMILES: CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12
+Mutants:
+CN(C)[C@@H1]C(O)=C(C(N)=O)C(=O)[C@@]1(O)C(O)=C2C(=O)C3=C(O)C=CC(Cl)=C3[C@@H1](O)[C@H1]2C[C@@H1]1
+
+Original SMILES: O[C@@H](c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)[C@@H]1CCCCN1
+Mutants:
+O[C@@H1](C1=CC(C(F)(F)F)=NC2=C(C(F)(F)F)C=CC=C12)[C@@H1]CCCC#N
+
+Original SMILES: CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21
+Mutants:
+CN(C)CCCN1C2=CC=CC=C2CCC3=CC=C(Cl)C=C31
+
+Original SMILES: C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1
+Mutants:
+C/C(=C\C1=CSC(C)=N1)[C@@H1]2C[C@@H1]3O[C@]3(C)CCC[C@H1](C)[C@H1](O)[C@@H1](C)C(=O)C(C)(C)[C@@H1](O)CC(=O)N2
+
+Original SMILES: C[C@H]1[C@@H](c2ccccc2)OCCN1C
+Mutants:
+C[C@H1]1[C@@H1](C2=CN=CC=C2)OCCN1C
+
+Original SMILES: Clc1ccc(CO/N=C(/Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1
+Mutants:
+ClC1=CC=C(CO/N=C(/CN2C=CN=C2)C3=CC=C(Cl)C=C3Cl)C(Cl)=C1
+
+Original SMILES: CC(C)C[C@H](NC(=O)[C@H](CCc1ccccc1)NC(=O)CN1CCOCC1)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1
+Mutants:
+CC(C)C[C@H1](NC(=O)[C@H1](CCC1=CC=CC=C1)NC(=O)CN2CCOCC2)C(=O)N[C@@H1](CC3=C=NCC=C3)C(=O)N[C@@H1](CC(C)C)C(=O)[C@@]4(C)CO4
+
+Original SMILES: N[C@@H]1CCCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2Cl)C1
+Mutants:
+N[C@@H1]1CCCCN(C2=C(F)C=C3C(=O)C(C(=O)O)=CN(C4CC4)C3=C2Cl)C1
+
+Original SMILES: CC[C@H](C)[C@H](N)C(=O)O
+Mutants:
+C1C[C@H1](C)[C@H1](N)C1
+
+Original SMILES: Nc1nc(NC2CC2)c2ncn([C@H]3C=C[C@@H](CO)C3)c2n1
+Mutants:
+N12C=NC(NCCC13)=CN=CN([C@H1]C=C[C@@H1]2OC)C3=N
+
+Original SMILES: N#C[C@@H]1C[C@@H]2C[C@@H]2N1C(=O)[C@@H](N)C12C[C@@H]3C[C@@H](CC(O)(C3)C1)C2
+Mutants:
+N#C[C@@H1]1C[C@@H1]2C[C@@H1]2N1C(=C)[C@@H1](N)C34C[C@@H1]5C[C@@H1](CC(O)(C5)C3)C4
+
+Original SMILES: Nc1nc(-n2cc(C(=O)O)c(=O)c3cc(F)c(N4CC(O)C4)c(Cl)c32)c(F)cc1F
+Mutants:
+NC=NC(N1C=CC(=O)O)C(=O)C2=CC(F)=C(N3CC(O)C3)C(Cl)=C21
+
+Original SMILES: CC(C)n1c(/C=C/[C@H](O)C[C@H](O)CC(=O)O)c(-c2ccc(F)cc2)c2ccccc21
+Mutants:
+CC(CN1C/C=C/[C@H1](O)C[C@H1](O)CC(=O)O)=C(C2=CC=C(F)C=C2)C3=CC=CC=C31
+
+Original SMILES: CN[C@@H]1[C@H](O[C@H]2[C@H](O[C@@H]3[C@@H](NC(=N)N)[C@H](O)[C@@H](NC(=N)N)[C@H](O)[C@H]3O)O[C@@H](C)[C@]2(O)C=O)O[C@@H](CO)[C@H](O)[C@H]1O
+Mutants:
+CN[C@@H1]1[C@H1](O[C@H1]2[C@H1](O[C@@H1]3[C@@H1](NC(=N)N)[C@H1](O)[C@@H1](NC(=N)N)[C@H1](O)[C@H1]3O)O[C@@H1](C)[C@]2(O)C=O)O[C@@H1](CO)[C@H1](O)[C@H1]1O
+
+Original SMILES: CN/C(=C/[N+](=O)[O-])NCCSCc1csc(CN(C)C)n1
+Mutants:
+CN/C(=C/[N+1](=O)[O-1])NCCSCC1=CSC(CN(C)C)=N1
+
+Original SMILES: CCN(CC)C(=O)[C@@]1(c2ccccc2)C[C@H]1CN
+Mutants:
+CCN(CC)C#CC=O
+
+Original SMILES: CCC[C@H]1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1
+Mutants:
+
+Original SMILES: CC1=C(C/C=C(\C)CCC[C@H](C)CCC[C@H](C)CCCC(C)C)C(=O)c2ccccc2C1=O
+Mutants:
+CC1=C(C/C=C(\C)CCC[C@H1](C)CCC[C@H1](C)CCCC(C)C)C(=O)C2=CC=CC=C2C1=O
+
+Original SMILES: C[C@H]1CNc2c(cccc2S(=O)(=O)N[C@@H](CCCNC(=N)N)C(=O)N2CC[C@@H](C)C[C@@H]2C(=O)O)C1
+Mutants:
+C[C@H1]1CNC2=C(C=CC=C2S(=O)(=O)N[C@@H1](CCCNC(=N)N)C(=O)N3CC[C@@H1](C)C[C@@H1]3C(=O)O)C1
+
+Original SMILES: Cc1cccc(C)c1OC[C@@H](C)N
+Mutants:
+CC1=CC=CC(C)=C1OC[C@@H1](C)N
+

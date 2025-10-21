@@ -1,0 +1,8 @@
+Original SMILES: COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl
+Mutants:
+COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c()C)cc23)c(Cl)cc1Cl
+COc1cc(Nc2c(C#N)cnc3c((OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl
+COc1cc(Nc2c(C#N)cnc3cc(4CCCC4CCN(C)CC4)c5OC)cc23)c(Cl)cc1Cl
+COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)=c1Cl
+COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl
+
